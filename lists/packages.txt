@@ -2,3 +2,5 @@ nmap
 net-tools
 htop
 curl
+git
+sudo
